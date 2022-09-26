@@ -43,6 +43,8 @@ header {
 
 /* Box 2 in Square 1 */
 #relative-box-2 {
+  position: relative;
+  margin-left: 200px;
   /* TODO: Set the position so it is centered in Square 1 */
 }
 
