@@ -16,7 +16,7 @@ Work with a partner to implement the following user story:
 
 The following image demonstrates the web application's appearance and functionality:
 
-![Box 2 is positioned in the center of Square 1, while in Square 2, Box 2 is positioned outside the square.](./assets/image-1.png)
+![Box 2 is positioned in the center of Square 1, while in Square 2, Box 2 is positioned outside the square.](./assets/images/image-1.png)
 
 ---
 
